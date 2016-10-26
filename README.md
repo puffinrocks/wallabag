@@ -9,4 +9,4 @@ It saves the content you select so that you can read it when you have time.
 
 Default username is 'wallabag' and password is 'wallabag'.
 
-![](screenshots/0_wallabag_dashboard_small.png)
+[![](screenshots/0_wallabag_dashboard_small.png)](screenshots/0_wallabag_dashboard.png)
