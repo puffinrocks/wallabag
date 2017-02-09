@@ -1,3 +1,3 @@
-FROM wallabag/wallabag:latest
+FROM wallabag/wallabag:2.2.1
 
-ENV VERSION=$WALLABAG_VERSION
+ENV VERSION=2.2.1
