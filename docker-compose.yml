@@ -3,7 +3,7 @@ version: '2'
 services:
 
     main:
-        
+
         image: puffinrocks/wallabag:latest
         depends_on:
             - db
@@ -31,7 +31,7 @@ services:
         tmpfs:
             - /run
             - /tmp
-  
+
     db:
         image: puffinrocks/mariadb
         environment:
